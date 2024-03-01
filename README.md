@@ -1,4 +1,4 @@
-VOLUME CONTROL USING HAND GESTURE USING PYTHON AND OPENCV
+#VOLUME CONTROL USING HAND GESTURE USING PYTHON AND OPENCV
 This project implements a volume control system using hand gestures through Python and OpenCV. By leveraging computer vision techniques, the system detects hand gestures captured through a webcam and adjusts the volume accordingly.
 
 KEY FEATURES
